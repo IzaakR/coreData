@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A9201B1221FCB61A005D2644 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9201B1121FCB61A005D2644 /* DetailViewController.swift */; };
 		A997248A21FBDE8B0072BF13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A997248921FBDE8B0072BF13 /* AppDelegate.swift */; };
 		A997248C21FBDE8B0072BF13 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A997248B21FBDE8B0072BF13 /* ViewController.swift */; };
 		A997248F21FBDE8B0072BF13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A997248D21FBDE8B0072BF13 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A9201B1121FCB61A005D2644 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		A997248621FBDE8B0072BF13 /* Tasks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tasks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A997248921FBDE8B0072BF13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A997248B21FBDE8B0072BF13 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				A997249521FBDE8D0072BF13 /* LaunchScreen.storyboard */,
 				A997249821FBDE8D0072BF13 /* Info.plist */,
 				A997249021FBDE8B0072BF13 /* Tasks.xcdatamodeld */,
+				A9201B1121FCB61A005D2644 /* DetailViewController.swift */,
 			);
 			path = Tasks;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				A997248C21FBDE8B0072BF13 /* ViewController.swift in Sources */,
 				A997248A21FBDE8B0072BF13 /* AppDelegate.swift in Sources */,
 				A997249221FBDE8B0072BF13 /* Tasks.xcdatamodeld in Sources */,
+				A9201B1221FCB61A005D2644 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
